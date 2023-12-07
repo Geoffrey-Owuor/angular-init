@@ -1,2 +1,2 @@
 # angular-init
-An angular-init repository
+A simple Angular Application created using Bootstrap framework
